@@ -1,0 +1,10 @@
+C:\Users\rseba\Desktop\Universidad\2021-2\LenguajesDeProgramación\Final\Interfaz\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\rseba\Desktop\Universidad\2021-2\LenguajesDeProgramación\Final\Interfaz\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\rseba\Desktop\Universidad\2021-2\LenguajesDeProgramación\Final\Interfaz\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\rseba\Desktop\Universidad\2021-2\LenguajesDeProgramación\Final\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.AssemblyReference.cache
+C:\Users\rseba\Desktop\Universidad\2021-2\LenguajesDeProgramación\Final\Interfaz\Interfaz\obj\Debug\Interfaz.Form1.resources
+C:\Users\rseba\Desktop\Universidad\2021-2\LenguajesDeProgramación\Final\Interfaz\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\rseba\Desktop\Universidad\2021-2\LenguajesDeProgramación\Final\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\rseba\Desktop\Universidad\2021-2\LenguajesDeProgramación\Final\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\rseba\Desktop\Universidad\2021-2\LenguajesDeProgramación\Final\Interfaz\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\rseba\Desktop\Universidad\2021-2\LenguajesDeProgramación\Final\Interfaz\Interfaz\obj\Debug\Interfaz.pdb
